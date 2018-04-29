@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "code": "nation01",
+      "name": "Thai Foods"
+    },
+    {
+      "code": "nation02",
+      "name": "Japanese Foods"
+    },
+    {
+      "code": "nation03",
+      "name": "Italian Foods"
+    },
+    {
+      "code": "cat01",
+      "type": "Foods"
+    },
+    {
+      "code": "cat02",
+      "type": "Baverages"
+    },
+    {
+      "code": "cat03",
+      "type": "Dessert"
+    }
+  ]
+}
