@@ -2,27 +2,33 @@
   "data": [
     {
       "code": "nation01",
-      "name": "Thai Foods"
+      "name": "Thai Foods",
+      "color": "#E91E63"
     },
     {
       "code": "nation02",
-      "name": "Japanese Foods"
+      "name": "Japanese Foods",
+      "color": "#9C27B0"
     },
     {
       "code": "nation03",
-      "name": "Italian Foods"
+      "name": "Italian Foods",
+      "color": "#673AB7"
     },
     {
       "code": "cat01",
-      "type": "Foods"
+      "name": "Foods",
+      "color": "#00BCD4"
     },
     {
       "code": "cat02",
-      "type": "Baverages"
+      "name": "Baverages",
+      "color": "#8BC34A"
     },
     {
       "code": "cat03",
-      "type": "Dessert"
+      "name": "Dessert",
+      "color": "#FF9800"
     }
   ]
 }
